@@ -25,7 +25,7 @@ function galleryMarkup(menu) {
                  <li class="tag-list__item">Часник</li>
                  <li class="tag-list__item">Сметана</li>
                  <li class="tag-list__item">Бекон</li>
-                 <li class="tag-list__item">Твердий сир</li>
+                 <li class="tag-list__item">Сир</li>
                  <li class="tag-list__item">Зелена цибуля</li>
              </ul>
              </div>
